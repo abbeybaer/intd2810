@@ -15,4 +15,4 @@ published: true
 * [All Slides](https://drive.google.com/drive/folders/1i0gedAJVwTvNJYz-qWgjb8XuNmILPVNX?usp=sharing)
 * [Slightly Messy Notes and Extra Links](https://docs.google.com/document/d/1DuWuqhKpqej3zhAEDOt7utYoWmpBIOLnkHZgjM2uab4/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQe_8L9SSyrh7nBNdaFEyb8EGs4kgEpHmNHTHEdXGg1-8ZnQRzlgquot5qW1HxhoupSUjM4IjqS0v4p/pub?embedded=true"></iframe>
+<iframe style="width: 100%; height: 5000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vQe_8L9SSyrh7nBNdaFEyb8EGs4kgEpHmNHTHEdXGg1-8ZnQRzlgquot5qW1HxhoupSUjM4IjqS0v4p/edit?usp=sharing"></iframe>
