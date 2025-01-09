@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Computer Science Research Seminar
-subtitle: CMPS 7010 - Fall 2024
+title: The Digital Revolution, From Ada to AI
+subtitle: INTD 2810 - Spring 2025 - Tulane University
 published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/cover.jpeg' | relative_url }}" /></p>

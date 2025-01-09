@@ -2,10 +2,10 @@
 # testing.
 
 # Name of website
-title: CMPS 7010 - Research Seminar
+title: INTD 2810 - The Digital Revolution, From Ada to AI
 
 # Short description of your site
-description: Tulane University - Fall 2024
+description: Tulane University - Spring 2025
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -97,7 +97,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://tulanecs.github.io/cmps7010/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://tulanecs.github.io/intd2810/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
