@@ -4,7 +4,7 @@ title: The Digital Revolution, From Ada to AI
 subtitle: INTD 2810 - Spring 2025 - Tulane University
 published: true
 ---
-<p style="text-align:center;"><img src="{{ 'img/cover.jpeg' | relative_url }}" /></p>
+<p style="text-align:center;"><img src="{{ 'img/cover.png' | relative_url }}" /></p>
 
 ## Course Information
 * CMPS 7010 Research Seminar
