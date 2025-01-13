@@ -19,7 +19,7 @@ published: true
 - **Webpage:** <https://tulanecs.github.io/intd2810/>
 - **GitHub:** <https://github.com/TulaneCS/intd2810>
 - **Canvas Page:** [Tulane Canvas](https://tulane.instructure.com/)
-- **EdStem For Questions:** [EdStem Link](https://edstem.org/us/courses/72670/discussion)
+- **Discord Discussion Server:** See [Tulane Canvas](https://tulane.instructure.com/)
 
 ## Instructor Information
 - **Instructor:** Walter Isaacson, <isaacson@tulane.edu>
