@@ -11,7 +11,7 @@ published: true
   - Spring 2025 Term, Tulane University
   - NTC Attributes: Textual & Hist Perspective and Math & Natural Science
 - **Lecture Times:** 11:00 - 12:15pm
-- **Room:** Paul Hall 100, PAUL ([**Building 16**](https://admission.tulane.edu/map))
+- **Room:** Paul Hall 100, PAUL ([Building 16](https://admission.tulane.edu/map))
 - **Online:** All meetings will be recorded on Zoom, see Tulane Canvas for details.
 - **Prerequisite Courses:** None
 
@@ -24,7 +24,7 @@ published: true
 ## Instructor Information
 - **Instructor:** Walter Isaacson, <isaacson@tulane.edu>
   - **Office:** F. Edward Herbert Hall ([Building 7](https://admission.tulane.edu/map)), Room 125C
-  - **Office Hours:** TBD
+  - **Office Hours:** TR 12:30 - 14:00 in the lobby outside PAUL 100.
 
 - **Instructor:** Nicholas Mattei, <nsmattei@tulane.edu>
   - **Office:** Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)), Room 305B
@@ -38,9 +38,14 @@ published: true
     - [Zoom Link](https://tulane.zoom.us/j/99348809166)
 
 - **Computer Science Course Assistants and Help Hours**
-  - **Note:** There are 4 undergraduate course assistants assigned to this course. They will hold regular general drop in help hours in STH 316.
+  - **Note:** There are 4 undergraduate course assistants assigned to this course. They will hold regular general drop in help hours in Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)) Room 316 
+  - Gavin Galusha <ggalusha@tulane.edu>
+  - Zachary Hom <zhom@tulane.edu>
+  - Maya Patri <mpatri@tulane.edu>
+  - Jamari Ross <jross19@tulane.edu>
 
-- **History Department Readers and Graders:**
-  - TBD
+- **History Department Readers/Graders:**
+  - Allex Fambles <afambles@tulane.edu>
+  - Kaylie McCarthy <kmccarthy1@tulane.edu>
 
 
