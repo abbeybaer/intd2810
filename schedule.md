@@ -10,6 +10,6 @@ published: true
 
 While we make every effort to keep these tables up to date, **if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
 
-**Note that when something says read or watch, you must do that before coming to class. Readings marked as optional will be drawn from for lecture.**
+**Note that when something says READ or WATCH, you must do that before coming to class. Readings marked as optional will be drawn from for lecture, it will be helpful to read them before but not required.**
 
 <iframe style="width: 100%; height: 5000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vQe_8L9SSyrh7nBNdaFEyb8EGs4kgEpHmNHTHEdXGg1-8ZnQRzlgquot5qW1HxhoupSUjM4IjqS0v4p/pub?embedded=true"></iframe>
