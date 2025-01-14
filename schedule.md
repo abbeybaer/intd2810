@@ -5,6 +5,7 @@ published: true
 ---
 
 ## Important Resources for the Semester
+* [Link to All YouTube Videos](https://www.youtube.com/playlist?list=PLnJFOBz2SCeebYYbKETRjS_R2gSKpmdM0)
 * [Link to the Git Repo for the Course!](https://github.com/nmattei/cmps6790)
 * [Slides for the Course](https://drive.google.com/drive/folders/15Jzn0V3R8K0q5yhueEV8l_ogAGy0hE97?usp=sharing)
 
