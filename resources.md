@@ -4,7 +4,7 @@ title: PhD Student Resources and Links
 published: true
 ---
 
-This is a somewhat messy set of resources and links for PhD students compiled as part of CMPS 7010 Research Seminar at Tulane University
+This is a somewhat messy set of resources and links for students compiled as part of INTD 2810 The Digital Revolution, From Ada to AI at Tulane University.
 
 ## How-Tos and Technical Help!
 
