@@ -9,7 +9,7 @@ published: true
 ## Tulane Course Information
 - INTD 2810-01, 3 Credit Hour Course
   - Spring 2025 Term, Tulane University
-  - NTC Attributes: Textual & Hist Perspective and Math & Natural Science
+  - NTC Attributes: Textual & Hist Perspective and Formal Reasoning
 - **Lecture Times:** 11:00 - 12:15pm
 - **Room:** Paul Hall 100, PAUL ([Building 16](https://admission.tulane.edu/map))
 - **Online:** All meetings will be recorded on Zoom, see Tulane Canvas for details.
