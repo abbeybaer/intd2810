@@ -14,7 +14,7 @@ published: true
   - NTC Attributes: Textual & Hist Perspective and Formal Reasoning
 - **Lecture Times:** 11:00 - 12:15pm
 - **Room:** Paul Hall 100, PAUL ([Building 16](https://admission.tulane.edu/map))
-- **Online:** All meetings will be recorded on Zoom, see Tulane Canvas for details. **However, you must come in person for full course credit.. Zoom is there for serious illness and other unavoidable circumstances only.**
+- **Online:** All meetings will be recorded on Zoom, see Tulane Canvas for details. *However, you must come in person for full course credit.. Zoom is there for serious illness and other unavoidable circumstances only.*
 - **Prerequisite Courses:** None
 
 ## Website Information
