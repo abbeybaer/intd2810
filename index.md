@@ -6,13 +6,15 @@ published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/cover.png' | relative_url }}" /></p>
 
+**Please click on [Syllabus](syllabus.md) and [Schedule](schedule.md) above to find the documentation for the semester!
+
 ## Tulane Course Information
 - INTD 2810-01, 3 Credit Hour Course
   - Spring 2025 Term, Tulane University
   - NTC Attributes: Textual & Hist Perspective and Formal Reasoning
 - **Lecture Times:** 11:00 - 12:15pm
 - **Room:** Paul Hall 100, PAUL ([Building 16](https://admission.tulane.edu/map))
-- **Online:** All meetings will be recorded on Zoom, see Tulane Canvas for details.
+- **Online:** All meetings will be recorded on Zoom, see Tulane Canvas for details. **However, you must come in person for full course credit.. Zoom is there for serious illness and other unavoidable circumstances only.**
 - **Prerequisite Courses:** None
 
 ## Website Information
@@ -28,7 +30,10 @@ published: true
 
 - **Instructor:** Nicholas Mattei, <nsmattei@tulane.edu>
   - **Office:** Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)), Room 305B
-  - **Office Hours:** TBD, You can come by my office or visit me at the Zoom Links below. Note that if you are in the waiting room on Zoom it means I am talking to someone else, please don’t email me.
+  - **Office Hours:** Monday and (most) TR 1230-130 in lobby outside Paul 100
+  - On Mondays you can come by my office or visit me at the Zoom Links below. Note that if you are in the waiting room on Zoom it means I am talking to someone else, please don’t email me.
+    - [Prof. Mattei Online Monday Link](https://tulane.zoom.us/j/97132310339)
+
 
 ## Teaching Assistant Information
 
