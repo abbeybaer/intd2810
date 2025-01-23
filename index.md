@@ -6,7 +6,7 @@ published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/cover.png' | relative_url }}" /></p>
 
-**Please click on [Syllabus](syllabus.md) and [Schedule](schedule.md) above to find the documentation for the semester!
+**Please click on [Syllabus](syllabus.md) and [Schedule](schedule.md) above to find the documentation for the semester!**
 
 ## Tulane Course Information
 - INTD 2810-01, 3 Credit Hour Course
@@ -53,4 +53,6 @@ published: true
   - Allex Fambles <afambles@tulane.edu>
   - Kaylie McCarthy <kmccarthy1@tulane.edu>
 
+Computer Science CA Help Hours – All in Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)) Room 316
 
+<p style="text-align:center;"><img src="{{ 'img/cahours.png' | relative_url }}" /></p>
