@@ -30,7 +30,7 @@ published: true
 
 - **Instructor:** Nicholas Mattei, <nsmattei@tulane.edu>
   - **Office:** Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)), Room 305B
-  - **Office Hours:** Monday and (most) TR 1230-130 in lobby outside Paul 100
+  - **Office Hours:** Monday 2-3p and (most) TR 1230-130 in lobby outside Paul 100
   - On Mondays you can come by my office or visit me at the Zoom Links below. Note that if you are in the waiting room on Zoom it means I am talking to someone else, please don’t email me.
     - [Prof. Mattei Online Monday Link](https://tulane.zoom.us/j/97132310339)
 
