@@ -5,9 +5,11 @@ published: true
 ---
 
 ## Important Resources for the Semester
+* [Slides for the Course](https://drive.google.com/drive/folders/15Jzn0V3R8K0q5yhueEV8l_ogAGy0hE97?usp=sharing)
+* [Link to All Worksheets](https://drive.google.com/drive/folders/1duTUelN6YrdjjbvWaeiKvmvtieOi-zbw?usp=drive_link)
 * [Link to All YouTube Videos](https://www.youtube.com/playlist?list=PLnJFOBz2SCeebYYbKETRjS_R2gSKpmdM0)
 * [Link to the Git Repo for the Course!](https://github.com/nmattei/cmps6790)
-* [Slides for the Course](https://drive.google.com/drive/folders/15Jzn0V3R8K0q5yhueEV8l_ogAGy0hE97?usp=sharing)
+
 
 While we make every effort to keep these tables up to date, **if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
 
