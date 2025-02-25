@@ -10,4 +10,4 @@ Each of these demo notebooks can be used in Colab to demo in class.
 
 | Demo   | Topic  | Link |
 |-------|--------|------|
-|01| Intro to Python! | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nmattei/intd2810/blob/master/_notebooks/Demo-01.ipynb)|
+|01| Intro to Python! | [![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TulaneCS/intd2810/blob/master/_notebooks/Demo-01.ipynb)|
