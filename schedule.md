@@ -10,7 +10,6 @@ published: true
 * [Link to All YouTube Videos](https://www.youtube.com/playlist?list=PLnJFOBz2SCeebYYbKETRjS_R2gSKpmdM0)
 * [Link to the Git Repo for the Course!](https://github.com/nmattei/cmps6790)
 
-
 While we make every effort to keep these tables up to date, **if there is ever a conflict on due date, the assignment due date in [Canvas](https://tulane.instructure.com/) supersedes anything posted here.**
 
 **Note that when something says READ or WATCH, you must do that before coming to class. Readings marked as optional will be drawn from for lecture, it will be helpful to read them before but not required.**

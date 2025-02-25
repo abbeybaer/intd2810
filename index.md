@@ -30,7 +30,7 @@ published: true
 
 - **Instructor:** Nicholas Mattei, <nsmattei@tulane.edu>
   - **Office:** Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)), Room 305B
-  - **Office Hours:** Monday and (most) TR 1230-130 in lobby outside Paul 100
+  - **Office Hours:** Monday 2-3p and (most) TR 1230-130 in lobby outside Paul 100
   - On Mondays you can come by my office or visit me at the Zoom Links below. Note that if you are in the waiting room on Zoom it means I am talking to someone else, please don’t email me.
     - [Prof. Mattei Online Monday Link](https://tulane.zoom.us/j/97132310339)
 
@@ -39,7 +39,7 @@ published: true
 
 - **Computer Science Teaching Assistant**: Harper Lyon, <hlyon@tulane.edu>
   - **Office:** Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)), Room 309
-  - **Office Hours:** You can come by my office or visit me at the Zoom Links below. Note that if you are in the waiting room on Zoom it means I am talking to someone else, please don’t email me.
+  - **Office Hours:** 5-7 PM on Mondays. You can come by my office or visit me at the Zoom Links below. Note that if you are in the waiting room on Zoom it means I am talking to someone else, please don’t email me.
     - [Zoom Link](https://tulane.zoom.us/j/99348809166)
 
 - **Computer Science Course Assistants and Help Hours**
